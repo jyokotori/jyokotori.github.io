@@ -3,8 +3,8 @@ title: XN Blog
 SEOTitle: 汐鸟的博客 | XN Blog
 header-img: img/post-bg-desk.jpg
 email: ushiodream@gmail.com
-description: "汐鳥のブログへようこそ！"
-keyword: "汐鸟的博客, kotorimiao"
+description: "汐鳥のブログへようこそ!"
+keyword: "汐鸟的博客, kotorimiao, jyokotori"
 url: "https://kotorimiao.github.io"
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/kotorimiao/kotorimiao.github.io.git"
